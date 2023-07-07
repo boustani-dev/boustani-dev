@@ -7,7 +7,7 @@ I am a Flutter developer
 I've been learning programming for 1.5 years, starting with C# and then switching to Flutter. I have a strong desire to learn and grow and enjoy sharing my knowledge with others.
 
 * 🌍  I'm based in Iran
-* ✉️  You can contact me at [mamadcodes@gmail.com](mailto:mamadcodes@gmail.com)
+* ✉️  You can contact me at [mamadcodes@gmail.com](mailto:boustani.dev@gmail.com)
 * 🧠  I'm learning Flutter and Dart
 * 🤝  I'm open to collaborating on interesting projects
 
