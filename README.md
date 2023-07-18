@@ -8,7 +8,7 @@ I've been learning programming for 1.5 years, starting with C# and then switchin
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [boustani.dev[@t]gmail.com](mailto:boustani.dev[@t]gmail.com)
-* 🧠  I'm learning Flutter and Dart
+* 🧠  I'm a Flutter developer
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
