@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammad Boostani
 I am a Flutter developer
 ------------------------
 
-I've been learning programming for 1.5 years, starting with C# and then switching to Flutter. I have a strong desire to learn and grow and enjoy sharing my knowledge with others.
+Passionate Flutter developer skilled in creating innovative mobile apps. Experienced in Flutter framework and problem-solving. Seeking challenging projects to contribute and collaborate with talented teams.
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [boustani.dev[@t]gmail.com](mailto:boustani.dev[@t]gmail.com)
